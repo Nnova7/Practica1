@@ -1,0 +1,16 @@
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\bin\Debug\net6.0-windows\Codificacion.exe
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\bin\Debug\net6.0-windows\Codificacion.deps.json
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\bin\Debug\net6.0-windows\Codificacion.runtimeconfig.json
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\bin\Debug\net6.0-windows\Codificacion.dll
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\bin\Debug\net6.0-windows\Codificacion.pdb
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\obj\Debug\net6.0-windows\Codificacion.Form1.resources
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\obj\Debug\net6.0-windows\Codificacion.csproj.GenerateResource.cache
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\obj\Debug\net6.0-windows\Codificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\obj\Debug\net6.0-windows\Codificacion.AssemblyInfoInputs.cache
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\obj\Debug\net6.0-windows\Codificacion.AssemblyInfo.cs
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\obj\Debug\net6.0-windows\Codificacion.csproj.CoreCompileInputs.cache
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\obj\Debug\net6.0-windows\Codificacion.dll
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\obj\Debug\net6.0-windows\refint\Codificacion.dll
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\obj\Debug\net6.0-windows\Codificacion.pdb
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\obj\Debug\net6.0-windows\Codificacion.genruntimeconfig.cache
+C:\Users\Dulce Mariana\source\repos\Codificacion\Codificacion\obj\Debug\net6.0-windows\ref\Codificacion.dll
